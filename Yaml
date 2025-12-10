@@ -1,0 +1,8 @@
+
+cff-version: 1.2.0
+message: "If you use this theory, cite it as below."
+title: "LTDW - Long-Term Deterministic Weather Theory"
+authors: [{ JP A-Marl}]
+repository-code: https://huggingface.co/datasets/jpamarlphi-byte/Long-Term_Deterministic_Extreme_Weather/blob/main/README.md
+doi: 10.5281/zenodo.17798798
+email address: jpamarl.phi@gmail.com
