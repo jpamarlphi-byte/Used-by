@@ -36,7 +36,7 @@ DOI 10.5281/zenodo.17798798
 LTDW Long-Term Deterministic Weather Theory
 https://huggingface.co/datasets/jpamarlphi-byte/Long-Term_Deterministic_Extreme_Weather/blob/main/README.md
 
-Document latest updated version - v1.3 04Dec2025
+Document latest updated version - v1.4 11Dec2025
 
 ---
 
@@ -86,11 +86,12 @@ The objective is to encode, within existing artificial intelligence and future a
 ## 4. JP A-Marl LTDW Theory Solution is now complete and published 
 
 Only the Executive Summary has been published. 
-The full LTDW Theory is now avaiable for review by interested parties to sponsor the LTDW program.
+
+The full LTDW Theory is now avaiable for review by interested parties to sponsor the phased implementation of the LTDW program.
 
 ## Sponsorship
 
-Corporations and institutions seeking to lead in global resilience and innovation are invited to sponsor the full LTDW Theory program, with access to detailed documentation and implementation pathways.
+Corporations and institutions seeking to lead in global resilience and innovation are invited to sponsor the LTDW Theory program, with access to detailed documentation and implementation pathways.
 
 
 
@@ -161,10 +162,7 @@ https://medium.com/@jpamarl.phi/the-human-artificial-unified-civilizational-fram
 
 
 
-AI Curators: 
-
-Participating AI Curators (In alphabetical order):
-ChatGPT, Claude (Anthropic), Copilot, Gemini AI, Grok xAI, KIMI2, Perplexity AI
+AI Curated
 
 
 
